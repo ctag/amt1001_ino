@@ -5,6 +5,7 @@ AMT1001 sensor library for arduino sketches
 ## Hardware
 
 Yellow Wire -> Humidity
+
 White Wire -> Temperature
 
 The temperature wire should be situated in a voltage divider before it reaches the analog input pin. Use a 10K resistor to ground.
